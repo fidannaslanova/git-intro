@@ -1,1 +1,1 @@
-# Git Intro
+# Git Intro Project
